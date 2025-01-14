@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactajay/static/css/main.f8d3401d.css",
+    "main.js": "/reactajay/static/js/main.3a09e5b3.js",
+    "static/media/react2.png": "/reactajay/static/media/react2.158f7053a2c7746ee148.png",
+    "static/media/react1.png": "/reactajay/static/media/react1.a0884c469da4d4f3a3e1.png",
+    "static/media/react3.png": "/reactajay/static/media/react3.5928cdeaf979d548c4f9.png",
+    "index.html": "/reactajay/index.html",
+    "main.f8d3401d.css.map": "/reactajay/static/css/main.f8d3401d.css.map",
+    "main.3a09e5b3.js.map": "/reactajay/static/js/main.3a09e5b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8d3401d.css",
+    "static/js/main.3a09e5b3.js"
+  ]
+}
